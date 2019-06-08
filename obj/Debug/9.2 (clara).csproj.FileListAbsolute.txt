@@ -1,0 +1,7 @@
+C:\Users\Lirian\source\repos\9.2 (clara)\bin\Debug\9.2 (clara).exe.config
+C:\Users\Lirian\source\repos\9.2 (clara)\bin\Debug\9.2 (clara).exe
+C:\Users\Lirian\source\repos\9.2 (clara)\bin\Debug\9.2 (clara).pdb
+C:\Users\Lirian\source\repos\9.2 (clara)\obj\Debug\9.2 (clara).csprojAssemblyReference.cache
+C:\Users\Lirian\source\repos\9.2 (clara)\obj\Debug\9.2 (clara).csproj.CoreCompileInputs.cache
+C:\Users\Lirian\source\repos\9.2 (clara)\obj\Debug\9.2 (clara).exe
+C:\Users\Lirian\source\repos\9.2 (clara)\obj\Debug\9.2 (clara).pdb
